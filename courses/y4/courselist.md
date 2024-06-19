@@ -2,7 +2,7 @@
 title: Year 4 Course List
 description: A list of courses required for Level IV of COMPSCI at McMaster University.
 published: true
-date: 2023-09-05T18:05:53.997Z
+date: 2024-06-19T02:57:41.714Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-22T15:49:24.267Z
@@ -15,12 +15,13 @@ This information is accurate as of 2023-06-14
 
 | Code | Name | Prof | Prof Rating |
 |------|-----|-----|----|
-| COMPSCI 4ZP6B | Capstone Project | Professor ??? | ???/5 |
+| COMPSCI 4ZP6A/B | Capstone Project | Professor ??? | ???/5 |
 
 # Technical Electives (12 units minimum)
 ## Fall
 | Code | Name | Prof | Prof Rating |
 |------|-----|-----|----|
+| COMPSCI 4AL3 | Applctns of Machine Learning | Swati Mishra | 1.3/5 |
 | COMPSCI 4O03 | Linear Optimization | Antoine Deza | ???/5 |
 | COMPSCI 4ML3 | Introduction to Machine Learning | Hassan Zokaei Ashtiani | ???/5 |
 
